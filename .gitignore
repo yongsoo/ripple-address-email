@@ -1,2 +1,6 @@
 node_modules
 data/data.js
+data/affected.js
+data/data.csv
+data/emails-no-dupes.js
+data/emails-with-dupes.js
